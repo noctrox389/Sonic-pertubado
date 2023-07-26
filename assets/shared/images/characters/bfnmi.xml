@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Created with Free texture packer v0.6.7 http://free-tex-packer.com
+-->
+<TextureAtlas imagePath="bfnmi.png" width="2435" height="2500">
+  <SubTexture name="lanzar0005.png" x="0" y="0"  width="293" height="411" frameX="-17" frameY="-0" frameWidth="310" frameHeight="411"/>
+  <SubTexture name="lanzar0004.png" x="0" y="411"  width="272" height="391" frameX="-33" frameY="-20" frameWidth="310" frameHeight="411"/>
+  <SubTexture name="missU0001.png" x="0" y="802"  width="280" height="378" frameX="-14" frameY="-0" frameWidth="314" frameHeight="383"/>
+  <SubTexture name="lanzar0003.png" x="272" y="411"  width="272" height="369" frameX="-33" frameY="-42" frameWidth="310" frameHeight="411"/>
+  <SubTexture name="lanzar0007.png" x="293" y="0"  width="310" height="362" frameX="-0" frameY="-49" frameWidth="310" frameHeight="411"/>
+  <SubTexture name="missU0000.png" x="0" y="1180"  width="293" height="350" frameX="-8" frameY="-33" frameWidth="314" frameHeight="383"/>
+  <SubTexture name="missU0003.png" x="280" y="780"  width="295" height="349" frameX="-7" frameY="-33" frameWidth="314" frameHeight="383"/>
+  <SubTexture name="up0000.png" x="544" y="362"  width="293" height="349" frameX="-13" frameY="-0" frameWidth="306" frameHeight="349"/>
+  <SubTexture name="up0002.png" x="603" y="0"  width="302" height="348" frameX="-0" frameY="-0" frameWidth="306" frameHeight="349"/>
+  <SubTexture name="missU0004.png" x="0" y="1530"  width="294" height="347" frameX="-7" frameY="-34" frameWidth="314" frameHeight="383"/>
+  <SubTexture name="lanzar0008.png" x="293" y="1129"  width="279" height="346" frameX="-31" frameY="-65" frameWidth="310" frameHeight="411"/>
+  <SubTexture name="up0003.png" x="0" y="1877"  width="296" height="341" frameX="-0" frameY="-7" frameWidth="306" frameHeight="349"/>
+  <SubTexture name="missD0001.png" x="0" y="2218"  width="340" height="282" frameX="-0" frameY="-24" frameWidth="340" frameHeight="307"/>
+  <SubTexture name="missU0002.png" x="294" y="1475"  width="314" height="319" frameX="-0" frameY="-62" frameWidth="314" frameHeight="383"/>
+  <SubTexture name="missL0001.png" x="572" y="1129"  width="269" height="318" frameX="-0" frameY="-0" frameWidth="278" frameHeight="318"/>
+  <SubTexture name="missL0002.png" x="575" y="711"  width="265" height="318" frameX="-11" frameY="-0" frameWidth="278" frameHeight="318"/>
+  <SubTexture name="missL0003.png" x="837" y="348"  width="265" height="318" frameX="-0" frameY="-0" frameWidth="278" frameHeight="318"/>
+  <SubTexture name="lanzar0002.png" x="905" y="0"  width="300" height="317" frameX="-10" frameY="-94" frameWidth="310" frameHeight="411"/>
+  <SubTexture name="lanzar0010.png" x="296" y="1794"  width="300" height="317" frameX="-8" frameY="-94" frameWidth="310" frameHeight="411"/>
+  <SubTexture name="lanzar0011.png" x="340" y="2111"  width="300" height="317" frameX="-8" frameY="-94" frameWidth="310" frameHeight="411"/>
+  <SubTexture name="lanzar0000.png" x="596" y="1794"  width="294" height="317" frameX="-15" frameY="-94" frameWidth="310" frameHeight="411"/>
+  <SubTexture name="idle0006.png" x="608" y="1447"  width="293" height="317" frameX="-2" frameY="-0" frameWidth="295" frameHeight="317"/>
+  <SubTexture name="lanzar0012.png" x="640" y="2111"  width="293" height="317" frameX="-15" frameY="-94" frameWidth="310" frameHeight="411"/>
+  <SubTexture name="Hey0004.png" x="890" y="1764"  width="291" height="317" frameX="-0" frameY="-0" frameWidth="294" frameHeight="317"/>
+  <SubTexture name="Hey0007.png" x="901" y="1447"  width="291" height="317" frameX="-0" frameY="-0" frameWidth="294" frameHeight="317"/>
+  <SubTexture name="lanzar0013.png" x="1192" y="1447"  width="291" height="317" frameX="-17" frameY="-94" frameWidth="310" frameHeight="411"/>
+  <SubTexture name="idle0000.png" x="1483" y="1447"  width="290" height="317" frameX="-3" frameY="-0" frameWidth="295" frameHeight="317"/>
+  <SubTexture name="lanzar0009.png" x="1773" y="1447"  width="277" height="317" frameX="-31" frameY="-94" frameWidth="310" frameHeight="411"/>
+  <SubTexture name="missD0002.png" x="2050" y="0"  width="325" height="307" frameX="-6" frameY="-0" frameWidth="340" frameHeight="307"/>
+  <SubTexture name="missD0004.png" x="2050" y="307"  width="325" height="297" frameX="-6" frameY="-9" frameWidth="340" frameHeight="307"/>
+  <SubTexture name="missD0003.png" x="2050" y="604"  width="324" height="297" frameX="-7" frameY="-9" frameWidth="340" frameHeight="307"/>
+  <SubTexture name="missD0005.png" x="2050" y="901"  width="324" height="297" frameX="-7" frameY="-9" frameWidth="340" frameHeight="307"/>
+  <SubTexture name="missD0000.png" x="2050" y="1198"  width="323" height="296" frameX="-5" frameY="-11" frameWidth="340" frameHeight="307"/>
+  <SubTexture name="down0000.png" x="2050" y="1494"  width="323" height="295" frameX="-0" frameY="-2" frameWidth="324" frameHeight="297"/>
+  <SubTexture name="missL0000.png" x="933" y="2081"  width="268" height="317" frameX="-10" frameY="-1" frameWidth="278" frameHeight="318"/>
+  <SubTexture name="Hey0000.png" x="1181" y="1764"  width="294" height="316" frameX="-0" frameY="-0" frameWidth="294" frameHeight="317"/>
+  <SubTexture name="idle0008.png" x="1201" y="2080"  width="292" height="316" frameX="-2" frameY="-0" frameWidth="295" frameHeight="317"/>
+  <SubTexture name="Hey0005.png" x="1475" y="1764"  width="291" height="316" frameX="-0" frameY="-0" frameWidth="294" frameHeight="317"/>
+  <SubTexture name="right0002.png" x="1766" y="1764"  width="282" height="306" frameX="-0" frameY="-5" frameWidth="308" frameHeight="311"/>
+  <SubTexture name="down0002.png" x="2048" y="1789"  width="321" height="291" frameX="-0" frameY="-2" frameWidth="324" frameHeight="297"/>
+  <SubTexture name="missR0003.png" x="1766" y="2070"  width="281" height="312" frameX="-2" frameY="-0" frameWidth="293" frameHeight="312"/>
+  <SubTexture name="left0002.png" x="1493" y="2080"  width="272" height="312" frameX="-2" frameY="-4" frameWidth="276" frameHeight="316"/>
+  <SubTexture name="down0003.png" x="2047" y="2080"  width="304" height="297" frameX="-9" frameY="-0" frameWidth="324" frameHeight="297"/>
+  <SubTexture name="idle0005.png" x="840" y="666"  width="295" height="315" frameX="-0" frameY="-0" frameWidth="295" frameHeight="317"/>
+  <SubTexture name="left0000.png" x="1102" y="317"  width="263" height="315" frameX="-0" frameY="-1" frameWidth="276" frameHeight="316"/>
+  <SubTexture name="left0001.png" x="1205" y="0"  width="262" height="314" frameX="-0" frameY="-1" frameWidth="276" frameHeight="316"/>
+  <SubTexture name="missR0002.png" x="841" y="981"  width="293" height="312" frameX="-0" frameY="-0" frameWidth="293" frameHeight="312"/>
+  <SubTexture name="missR0001.png" x="1134" y="981"  width="289" height="312" frameX="-4" frameY="-0" frameWidth="293" frameHeight="312"/>
+  <SubTexture name="Hey0002.png" x="1135" y="632"  width="287" height="312" frameX="-0" frameY="-5" frameWidth="294" frameHeight="317"/>
+  <SubTexture name="missR0004.png" x="1365" y="314"  width="281" height="312" frameX="-2" frameY="-0" frameWidth="293" frameHeight="312"/>
+  <SubTexture name="missR0000.png" x="1467" y="0"  width="280" height="312" frameX="-2" frameY="-0" frameWidth="293" frameHeight="312"/>
+  <SubTexture name="right0001.png" x="1747" y="0"  width="298" height="307" frameX="-10" frameY="-4" frameWidth="308" frameHeight="311"/>
+  <SubTexture name="idle0003.png" x="1747" y="307"  width="293" height="311" frameX="-2" frameY="-5" frameWidth="295" frameHeight="317"/>
+  <SubTexture name="idle0001.png" x="1747" y="618"  width="287" height="308" frameX="-1" frameY="-8" frameWidth="295" frameHeight="317"/>
+  <SubTexture name="right0000.png" x="1422" y="626"  width="278" height="311" frameX="-30" frameY="-0" frameWidth="308" frameHeight="311"/>
+  <SubTexture name="Hey0001.png" x="1181" y="1764"  width="294" height="316" frameX="-0" frameY="-0" frameWidth="294" frameHeight="317"/>
+  <SubTexture name="Hey0003.png" x="1135" y="632"  width="287" height="312" frameX="-0" frameY="-5" frameWidth="294" frameHeight="317"/>
+  <SubTexture name="Hey0006.png" x="1475" y="1764"  width="291" height="316" frameX="-0" frameY="-0" frameWidth="294" frameHeight="317"/>
+  <SubTexture name="down0001.png" x="2050" y="1494"  width="323" height="295" frameX="-0" frameY="-2" frameWidth="324" frameHeight="297"/>
+  <SubTexture name="idle0002.png" x="1747" y="618"  width="287" height="308" frameX="-1" frameY="-8" frameWidth="295" frameHeight="317"/>
+  <SubTexture name="idle0004.png" x="1747" y="307"  width="293" height="311" frameX="-2" frameY="-5" frameWidth="295" frameHeight="317"/>
+  <SubTexture name="idle0007.png" x="608" y="1447"  width="293" height="317" frameX="-2" frameY="-0" frameWidth="295" frameHeight="317"/>
+  <SubTexture name="idle0009.png" x="1201" y="2080"  width="292" height="316" frameX="-2" frameY="-0" frameWidth="295" frameHeight="317"/>
+  <SubTexture name="idle0010.png" x="1201" y="2080"  width="292" height="316" frameX="-2" frameY="-0" frameWidth="295" frameHeight="317"/>
+  <SubTexture name="lanzar0001.png" x="596" y="1794"  width="294" height="317" frameX="-15" frameY="-94" frameWidth="310" frameHeight="411"/>
+  <SubTexture name="lanzar0006.png" x="0" y="0"  width="293" height="411" frameX="-17" frameY="-0" frameWidth="310" frameHeight="411"/>
+  <SubTexture name="up0001.png" x="544" y="362"  width="293" height="349" frameX="-13" frameY="-0" frameWidth="306" frameHeight="349"/>
+</TextureAtlas>

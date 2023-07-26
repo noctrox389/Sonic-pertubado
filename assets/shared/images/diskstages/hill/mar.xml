@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Created with Free texture packer v0.6.7 http://free-tex-packer.com
+-->
+<TextureAtlas imagePath="mar.png" width="1930" height="1190">
+  <SubTexture name="mar0003.png" x="0" y="0"  width="966" height="591" frameX="-0" frameY="-0" frameWidth="966" frameHeight="591"/>
+  <SubTexture name="mar0006.png" x="0" y="591"  width="966" height="591" frameX="-0" frameY="-0" frameWidth="966" frameHeight="591"/>
+  <SubTexture name="mar0000.png" x="966" y="0"  width="939" height="591" frameX="-27" frameY="-0" frameWidth="966" frameHeight="591"/>
+  <SubTexture name="mar0009.png" x="966" y="591"  width="923" height="591" frameX="-43" frameY="-0" frameWidth="966" frameHeight="591"/>
+  <SubTexture name="mar0001.png" x="966" y="0"  width="939" height="591" frameX="-27" frameY="-0" frameWidth="966" frameHeight="591"/>
+  <SubTexture name="mar0002.png" x="966" y="0"  width="939" height="591" frameX="-27" frameY="-0" frameWidth="966" frameHeight="591"/>
+  <SubTexture name="mar0004.png" x="0" y="0"  width="966" height="591" frameX="-0" frameY="-0" frameWidth="966" frameHeight="591"/>
+  <SubTexture name="mar0005.png" x="0" y="0"  width="966" height="591" frameX="-0" frameY="-0" frameWidth="966" frameHeight="591"/>
+  <SubTexture name="mar0007.png" x="0" y="591"  width="966" height="591" frameX="-0" frameY="-0" frameWidth="966" frameHeight="591"/>
+  <SubTexture name="mar0008.png" x="0" y="591"  width="966" height="591" frameX="-0" frameY="-0" frameWidth="966" frameHeight="591"/>
+  <SubTexture name="mar0010.png" x="966" y="591"  width="923" height="591" frameX="-43" frameY="-0" frameWidth="966" frameHeight="591"/>
+  <SubTexture name="mar0011.png" x="966" y="591"  width="923" height="591" frameX="-43" frameY="-0" frameWidth="966" frameHeight="591"/>
+</TextureAtlas>

@@ -1,0 +1,68 @@
+{
+	"songs": [
+                 [
+			"hellish-suffering",
+			"icon-tails",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"liminal-escape",
+			"nmi",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"no-more-girls",
+			"espantaviejas",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"suspicious-speed",
+			"susnic",
+			[
+				146,
+				113,
+				253
+			]
+                ],
+		[
+			"gnial",
+			"gnial",
+			[
+				146,
+				113,
+				253
+			]
+		]
+	],
+	"hiddenUntilUnlocked": false,
+	"hideFreeplay": false,
+	"weekBackground": "extras",
+	"difficulties": "Hard",
+	"weekCharacters": [
+		"bro",
+		"mi",
+		"ta"
+	],
+	"storyName": "extras",
+	"weekName": "Extras",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": true,
+	"weekBefore": "tutorial",
+	"startUnlocked": true
+}

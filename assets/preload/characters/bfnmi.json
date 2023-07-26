@@ -1,0 +1,144 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-184,
+				-148
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-165,
+				-180
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-188,
+				-111
+			],
+			"anim": "singUPmiss",
+			"fps": 24,
+			"name": "missU",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				-170,
+				-197
+			],
+			"anim": "singDOWNmiss",
+			"fps": 24,
+			"name": "missD",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-155,
+				-180
+			],
+			"anim": "singLEFTmiss",
+			"fps": 24,
+			"name": "missL",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-241,
+				-176
+			],
+			"anim": "singRIGHTmiss",
+			"fps": 24,
+			"name": "missR",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-168,
+				-179
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "hey",
+			"indices": [],
+			"name": "Hey"
+		},
+		{
+			"offsets": [
+				-151,
+				-85
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "lanzar",
+			"indices": [],
+			"name": "lanzar"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-174,
+				-202
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-220,
+				-178
+			],
+			"anim": "singRIGHT",
+			"fps": 25,
+			"name": "right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-170,
+				-180
+			],
+			"anim": "singLEFT",
+			"fps": 23,
+			"name": "left",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/bfnmi",
+	"position": [
+		-120,
+		70
+	],
+	"healthicon": "tails",
+	"flip_x": true,
+	"healthbar_colors": [
+		225,
+		225,
+		225
+	],
+	"camera_position": [
+		-110,
+		100
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

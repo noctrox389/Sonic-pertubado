@@ -1,0 +1,41 @@
+{
+	"songs": [
+		[
+			"disturbance",
+			"vaporeon",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"disturbance-old",
+			"vaporeon",
+			[
+				146,
+				113,
+				253
+			]
+		]
+	],
+	"hiddenUntilUnlocked": false,
+	"hideFreeplay": false,
+	"weekBackground": "perturbado",
+	"difficulties": "hard",
+	"weekCharacters": [
+		"vaporeon",
+		"sonic_perturbado",
+		"hoy se come xd xd"
+	],
+	"storyName": "...XD?",
+	"weekName": "Perturbado",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": true,
+	"weekBefore": "tutorial",
+	"startUnlocked": true
+}

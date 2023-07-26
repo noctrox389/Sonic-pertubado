@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Created with Free texture packer v0.6.7 http://free-tex-packer.com
+-->
+<TextureAtlas imagePath="sp1.png" width="2140" height="1898">
+  <SubTexture name="up0000_copy_428x191.png" x="0" y="0" width="191" height="428" rotated="true"  frameX="-0" frameY="-0" frameWidth="428" frameHeight="191"/>
+  <SubTexture name="up0001_copy_428x191.png" x="0" y="428" width="191" height="428" rotated="true"  frameX="-0" frameY="-0" frameWidth="428" frameHeight="191"/>
+  <SubTexture name="up0002_copy_428x191.png" x="0" y="856" width="188" height="428" rotated="true"  frameX="-0" frameY="-3" frameWidth="428" frameHeight="191"/>
+  <SubTexture name="alt0007_copy_428x186.png" x="0" y="1284" width="186" height="428" rotated="true"  frameX="-0" frameY="-0" frameWidth="428" frameHeight="186"/>
+  <SubTexture name="right0000_copy_428x186.png" x="0" y="1712"  width="428" height="186" frameX="-0" frameY="-0" frameWidth="428" frameHeight="186"/>
+  <SubTexture name="alt0009_copy_428x186.png" x="186" y="1284" width="185" height="428" rotated="true"  frameX="-0" frameY="-1" frameWidth="428" frameHeight="186"/>
+  <SubTexture name="alt0010_copy_428x186.png" x="371" y="1284" width="185" height="428" rotated="true"  frameX="-0" frameY="-1" frameWidth="428" frameHeight="186"/>
+  <SubTexture name="alt0013_copy_428x186.png" x="556" y="1284" width="185" height="428" rotated="true"  frameX="-0" frameY="-1" frameWidth="428" frameHeight="186"/>
+  <SubTexture name="alt0014_copy_428x186.png" x="188" y="856" width="185" height="428" rotated="true"  frameX="-0" frameY="-1" frameWidth="428" frameHeight="186"/>
+  <SubTexture name="alt0019_copy_428x186.png" x="428" y="1712"  width="428" height="185" frameX="-0" frameY="-1" frameWidth="428" frameHeight="186"/>
+  <SubTexture name="alt0020_copy_428x186.png" x="191" y="0" width="185" height="428" rotated="true"  frameX="-0" frameY="-1" frameWidth="428" frameHeight="186"/>
+  <SubTexture name="alt0025_copy_428x186.png" x="191" y="428" width="185" height="428" rotated="true"  frameX="-0" frameY="-1" frameWidth="428" frameHeight="186"/>
+  <SubTexture name="alt0026_copy_428x186.png" x="373" y="856" width="185" height="428" rotated="true"  frameX="-0" frameY="-1" frameWidth="428" frameHeight="186"/>
+  <SubTexture name="alt0027_copy_428x186.png" x="376" y="0" width="185" height="428" rotated="true"  frameX="-0" frameY="-1" frameWidth="428" frameHeight="186"/>
+  <SubTexture name="alt0031_copy_428x186.png" x="376" y="428" width="185" height="428" rotated="true"  frameX="-0" frameY="-1" frameWidth="428" frameHeight="186"/>
+  <SubTexture name="alt0032_copy_428x186.png" x="558" y="856" width="185" height="428" rotated="true"  frameX="-0" frameY="-1" frameWidth="428" frameHeight="186"/>
+  <SubTexture name="alt0035_copy_428x186.png" x="743" y="856" width="185" height="428" rotated="true"  frameX="-0" frameY="-1" frameWidth="428" frameHeight="186"/>
+  <SubTexture name="alt0036_copy_428x186.png" x="928" y="856" width="185" height="428" rotated="true"  frameX="-0" frameY="-1" frameWidth="428" frameHeight="186"/>
+  <SubTexture name="alt0037_copy_428x186.png" x="741" y="1284" width="185" height="428" rotated="true"  frameX="-0" frameY="-1" frameWidth="428" frameHeight="186"/>
+  <SubTexture name="alt0038_copy_428x186.png" x="856" y="1712"  width="428" height="185" frameX="-0" frameY="-1" frameWidth="428" frameHeight="186"/>
+  <SubTexture name="alt0043_copy_428x186.png" x="926" y="1284" width="185" height="428" rotated="true"  frameX="-0" frameY="-1" frameWidth="428" frameHeight="186"/>
+  <SubTexture name="alt0044_copy_428x186.png" x="1111" y="1284" width="185" height="428" rotated="true"  frameX="-0" frameY="-1" frameWidth="428" frameHeight="186"/>
+  <SubTexture name="right0002_copy_428x186.png" x="1284" y="1712"  width="428" height="185" frameX="-0" frameY="-1" frameWidth="428" frameHeight="186"/>
+  <SubTexture name="alt0005_copy_428x186.png" x="1712" y="0"  width="428" height="184" frameX="-0" frameY="-2" frameWidth="428" frameHeight="186"/>
+  <SubTexture name="alt0006_copy_428x186.png" x="1712" y="184"  width="428" height="183" frameX="-0" frameY="-3" frameWidth="428" frameHeight="186"/>
+  <SubTexture name="alt0000_copy_428x186.png" x="1712" y="367"  width="428" height="182" frameX="-0" frameY="-4" frameWidth="428" frameHeight="186"/>
+  <SubTexture name="alt0001_copy_428x186.png" x="1712" y="549"  width="428" height="182" frameX="-0" frameY="-4" frameWidth="428" frameHeight="186"/>
+  <SubTexture name="alt0003_copy_428x186.png" x="1712" y="731"  width="428" height="182" frameX="-0" frameY="-4" frameWidth="428" frameHeight="186"/>
+  <SubTexture name="down0000_copy_428x182.png" x="1712" y="913"  width="428" height="182" frameX="-0" frameY="-0" frameWidth="428" frameHeight="182"/>
+  <SubTexture name="down0001_copy_428x182.png" x="1113" y="1095"  width="428" height="182" frameX="-0" frameY="-0" frameWidth="428" frameHeight="182"/>
+  <SubTexture name="idle0000_copy_428x182.png" x="1296" y="1277" width="182" height="428" rotated="true"  frameX="-0" frameY="-0" frameWidth="428" frameHeight="182"/>
+  <SubTexture name="idle0001_copy_428x182.png" x="1478" y="1277" width="182" height="428" rotated="true"  frameX="-0" frameY="-0" frameWidth="428" frameHeight="182"/>
+  <SubTexture name="idle0002_copy_428x182.png" x="1541" y="1095"  width="428" height="182" frameX="-0" frameY="-0" frameWidth="428" frameHeight="182"/>
+  <SubTexture name="idle0003_copy_428x182.png" x="1660" y="1277" width="182" height="428" rotated="true"  frameX="-0" frameY="-0" frameWidth="428" frameHeight="182"/>
+  <SubTexture name="idle0004_copy_428x182.png" x="1712" y="1705"  width="428" height="182" frameX="-0" frameY="-0" frameWidth="428" frameHeight="182"/>
+  <SubTexture name="idle0005_copy_428x182.png" x="1842" y="1277" width="182" height="428" rotated="true"  frameX="-0" frameY="-0" frameWidth="428" frameHeight="182"/>
+  <SubTexture name="idle0006_copy_428x182.png" x="1113" y="0"  width="428" height="182" frameX="-0" frameY="-0" frameWidth="428" frameHeight="182"/>
+  <SubTexture name="idle0007_copy_428x182.png" x="561" y="0"  width="428" height="182" frameX="-0" frameY="-0" frameWidth="428" frameHeight="182"/>
+  <SubTexture name="idle0008_copy_428x182.png" x="1113" y="182"  width="428" height="182" frameX="-0" frameY="-0" frameWidth="428" frameHeight="182"/>
+  <SubTexture name="idle0009_copy_428x182.png" x="561" y="364" width="182" height="428" rotated="true"  frameX="-0" frameY="-0" frameWidth="428" frameHeight="182"/>
+  <SubTexture name="idle0010_copy_428x182.png" x="561" y="182"  width="428" height="182" frameX="-0" frameY="-0" frameWidth="428" frameHeight="182"/>
+  <SubTexture name="idle0011_copy_428x182.png" x="743" y="364" width="182" height="428" rotated="true"  frameX="-0" frameY="-0" frameWidth="428" frameHeight="182"/>
+  <SubTexture name="idle0012_copy_428x182.png" x="925" y="364" width="182" height="428" rotated="true"  frameX="-0" frameY="-0" frameWidth="428" frameHeight="182"/>
+  <SubTexture name="idle0013_copy_428x182.png" x="1107" y="364" width="182" height="428" rotated="true"  frameX="-0" frameY="-0" frameWidth="428" frameHeight="182"/>
+  <SubTexture name="left0000_copy_428x182.png" x="1113" y="792"  width="428" height="182" frameX="-0" frameY="-0" frameWidth="428" frameHeight="182"/>
+  <SubTexture name="left0001_copy_428x182.png" x="1289" y="364" width="182" height="428" rotated="true"  frameX="-0" frameY="-0" frameWidth="428" frameHeight="182"/>
+  <SubTexture name="left0002_copy_428x182.png" x="1471" y="364" width="182" height="428" rotated="true"  frameX="-0" frameY="-0" frameWidth="428" frameHeight="182"/>
+  <SubTexture name="alt0002_copy_428x186.png" x="1712" y="549"  width="428" height="182" frameX="-0" frameY="-4" frameWidth="428" frameHeight="186"/>
+  <SubTexture name="alt0004_copy_428x186.png" x="1712" y="731"  width="428" height="182" frameX="-0" frameY="-4" frameWidth="428" frameHeight="186"/>
+  <SubTexture name="alt0008_copy_428x186.png" x="0" y="1284" width="186" height="428" rotated="true"  frameX="-0" frameY="-0" frameWidth="428" frameHeight="186"/>
+  <SubTexture name="alt0011_copy_428x186.png" x="186" y="1284" width="185" height="428" rotated="true"  frameX="-0" frameY="-1" frameWidth="428" frameHeight="186"/>
+  <SubTexture name="alt0012_copy_428x186.png" x="371" y="1284" width="185" height="428" rotated="true"  frameX="-0" frameY="-1" frameWidth="428" frameHeight="186"/>
+  <SubTexture name="alt0015_copy_428x186.png" x="556" y="1284" width="185" height="428" rotated="true"  frameX="-0" frameY="-1" frameWidth="428" frameHeight="186"/>
+  <SubTexture name="alt0017_copy_428x186.png" x="556" y="1284" width="185" height="428" rotated="true"  frameX="-0" frameY="-1" frameWidth="428" frameHeight="186"/>
+  <SubTexture name="alt0016_copy_428x186.png" x="188" y="856" width="185" height="428" rotated="true"  frameX="-0" frameY="-1" frameWidth="428" frameHeight="186"/>
+  <SubTexture name="alt0018_copy_428x186.png" x="188" y="856" width="185" height="428" rotated="true"  frameX="-0" frameY="-1" frameWidth="428" frameHeight="186"/>
+  <SubTexture name="alt0021_copy_428x186.png" x="428" y="1712"  width="428" height="185" frameX="-0" frameY="-1" frameWidth="428" frameHeight="186"/>
+  <SubTexture name="alt0023_copy_428x186.png" x="428" y="1712"  width="428" height="185" frameX="-0" frameY="-1" frameWidth="428" frameHeight="186"/>
+  <SubTexture name="alt0022_copy_428x186.png" x="191" y="0" width="185" height="428" rotated="true"  frameX="-0" frameY="-1" frameWidth="428" frameHeight="186"/>
+  <SubTexture name="alt0024_copy_428x186.png" x="191" y="0" width="185" height="428" rotated="true"  frameX="-0" frameY="-1" frameWidth="428" frameHeight="186"/>
+  <SubTexture name="alt0028_copy_428x186.png" x="373" y="856" width="185" height="428" rotated="true"  frameX="-0" frameY="-1" frameWidth="428" frameHeight="186"/>
+  <SubTexture name="alt0030_copy_428x186.png" x="373" y="856" width="185" height="428" rotated="true"  frameX="-0" frameY="-1" frameWidth="428" frameHeight="186"/>
+  <SubTexture name="alt0029_copy_428x186.png" x="376" y="0" width="185" height="428" rotated="true"  frameX="-0" frameY="-1" frameWidth="428" frameHeight="186"/>
+  <SubTexture name="alt0033_copy_428x186.png" x="376" y="428" width="185" height="428" rotated="true"  frameX="-0" frameY="-1" frameWidth="428" frameHeight="186"/>
+  <SubTexture name="alt0034_copy_428x186.png" x="558" y="856" width="185" height="428" rotated="true"  frameX="-0" frameY="-1" frameWidth="428" frameHeight="186"/>
+  <SubTexture name="alt0039_copy_428x186.png" x="741" y="1284" width="185" height="428" rotated="true"  frameX="-0" frameY="-1" frameWidth="428" frameHeight="186"/>
+  <SubTexture name="alt0041_copy_428x186.png" x="741" y="1284" width="185" height="428" rotated="true"  frameX="-0" frameY="-1" frameWidth="428" frameHeight="186"/>
+  <SubTexture name="alt0040_copy_428x186.png" x="856" y="1712"  width="428" height="185" frameX="-0" frameY="-1" frameWidth="428" frameHeight="186"/>
+  <SubTexture name="alt0042_copy_428x186.png" x="856" y="1712"  width="428" height="185" frameX="-0" frameY="-1" frameWidth="428" frameHeight="186"/>
+  <SubTexture name="alt0045_copy_428x186.png" x="926" y="1284" width="185" height="428" rotated="true"  frameX="-0" frameY="-1" frameWidth="428" frameHeight="186"/>
+  <SubTexture name="alt0047_copy_428x186.png" x="926" y="1284" width="185" height="428" rotated="true"  frameX="-0" frameY="-1" frameWidth="428" frameHeight="186"/>
+  <SubTexture name="alt0049_copy_428x186.png" x="926" y="1284" width="185" height="428" rotated="true"  frameX="-0" frameY="-1" frameWidth="428" frameHeight="186"/>
+  <SubTexture name="alt0046_copy_428x186.png" x="1111" y="1284" width="185" height="428" rotated="true"  frameX="-0" frameY="-1" frameWidth="428" frameHeight="186"/>
+  <SubTexture name="alt0048_copy_428x186.png" x="1111" y="1284" width="185" height="428" rotated="true"  frameX="-0" frameY="-1" frameWidth="428" frameHeight="186"/>
+  <SubTexture name="down0002_copy_428x182.png" x="1113" y="1095"  width="428" height="182" frameX="-0" frameY="-0" frameWidth="428" frameHeight="182"/>
+  <SubTexture name="right0001_copy_428x186.png" x="0" y="1712"  width="428" height="186" frameX="-0" frameY="-0" frameWidth="428" frameHeight="186"/>
+</TextureAtlas>

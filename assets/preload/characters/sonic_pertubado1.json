@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				55,
+				300
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "idle"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				164,
+				275
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				132,
+				217
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				18,
+				365
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				94,
+				324
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				57,
+				326
+			],
+			"anim": "altanimation",
+			"fps": 24,
+			"name": "alt",
+			"indices": []
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/sonic_pertubado",
+	"position": [
+		50,
+		410
+	],
+	"healthicon": "pertubado",
+	"flip_x": true,
+	"healthbar_colors": [
+		255,
+		255,
+		255
+	],
+	"camera_position": [
+		330,
+		-400
+	],
+	"sing_duration": 4,
+	"scale": 1.1
+}
